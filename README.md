@@ -11,12 +11,12 @@ Doors Smores takes things back to basics.
 This project provides documentation on the [Doors Smores VS Code extension](https://marketplace.visualstudio.com/items?itemName=Niflheim.doors-smores).
 
 ## More information
-[Quick start guide] \
-[New project creation] \
-[Opening existing projects] \
-[New document creation] \
-[Viewing documents] \
-[Editing documents] \
-[Adding/Viewing tracing] \
-[Exporting documents] \
-[Exporting trace reports] 
+[Quick start guide](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Quick-start-guide) \
+[New project creation](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/New-project-creation) \
+[Opening existing projects](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Opening-existing-projects) \
+[New document creation](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/New-document-creation) \
+[Viewing documents](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Viewing-documents) \
+[Editing documents](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Editing-documents) \
+[Adding/Viewing tracing](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Tracing) \
+[Exporting documents](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Exporting-documents) \
+[Exporting trace reports](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Exporting-trace-reports) 
