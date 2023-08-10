@@ -10,7 +10,7 @@ Doors Smores takes things back to basics.
 
 This project provides documentation on the [Doors Smores VS Code extension](https://marketplace.visualstudio.com/items?itemName=Niflheim.doors-smores).
 
-## More information
+## More information (WIP)
 [Quick start guide](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Quick-start-guide) \
 [New project creation](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/New-project-creation) \
 [Opening existing projects](https://github.com/Niflheim-uk/Doors-Smores-Docs/wiki/Opening-existing-projects) \
